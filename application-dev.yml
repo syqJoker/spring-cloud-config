@@ -7,7 +7,7 @@ spring:
         server-addr: 192.168.101.15:8848
   datasource:
     url: jdbc:mysql://192.168.101.15:3306/mk-swcenter?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=UTC
-    username: test
+    username: swcenter
     password: 123456
     encoding: UTF-8
   redis:
